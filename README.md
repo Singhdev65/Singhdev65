@@ -19,9 +19,12 @@
 <div style="display:flex;flex-direction:row">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/node-1572B6?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/mongodb-1572B6?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/express-1572B6?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
-   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
 
@@ -37,8 +40,8 @@
 
 <div style="display:flex;flex-direction:row">
    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
    <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
 </div>
 
@@ -48,6 +51,9 @@
     <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+   <img src="https://img.shields.io/badge/mui-%238511FA.svg?style=for-the-badge&logo=mui&logoColor=white" />
+   <img src="https://img.shields.io/badge/tailwind-%238511FA.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+   <img src="https://img.shields.io/badge/sass-%238511FA.svg?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
 ### 📈Profile Stats:
