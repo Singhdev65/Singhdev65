@@ -54,8 +54,7 @@
   <table align='center'>
     <tr>
 <td><img src='https://github-readme-streak-stats.herokuapp.com?user=singhdev65&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
-<td><img src='https://github-readme-stats.vercel.app/api?username=singhdev65&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
-    </tr>
+
   </table>
 
 
