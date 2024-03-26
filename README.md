@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhdev65&label=Profile%20views&color=1dc95f&style=flat-square" alt="prince" /></p>
 
-
-
-
-
-- 👨‍💻 currently i am working on **100 Days 100 DSA Questions**
+- 👨‍💻 currently i am working on **500 Days 500 DSA Questions**
 
 - 💬 Ask me about **JavaScript, React, Next js, Node js, MongoDb, Express Js**
 
@@ -27,7 +23,11 @@
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
-
+<!-- Profile Trophy -->
+### 🏆 GitHub Profile Trophy:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=singhdev65&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
+</a>
 
 ### Languages
 
@@ -62,9 +62,7 @@
 <td><img src='https://github-readme-streak-stats.herokuapp.com?user=singhdev65&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
 
   </table>
-
-
- ### Top Languages Used:
+### Top Languages Used:
 <div style="display:flex;flex-direction:row">
  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=singhdev65&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="singhdev65" />
 
