@@ -23,12 +23,6 @@
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
-<!-- Profile Trophy -->
-### 🏆 GitHub Profile Trophy:
-<a href="https://github.com/singhdev65/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=singhdev65&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
-
 ### Languages
 
 <div style="display:flex;flex-direction:row">
